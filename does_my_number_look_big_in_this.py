@@ -7,7 +7,7 @@ def narcissistic ( value ):
     return total == int(value)
    
 
-print(narcissistic(153))
+
         
 
     
