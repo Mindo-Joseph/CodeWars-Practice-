@@ -1,1 +1,1 @@
-# Kata's from Codewars
+# Kata's from Codewars solved in Python
